@@ -1,4 +1,4 @@
-TgCrypto
-pyrogram
-Dnspython
 pyromod
+tgcrypto==1.2.2
+Pyrogram==1.2.9
+Dnspython==2.3.0
